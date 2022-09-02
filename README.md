@@ -1,3 +1,3 @@
-#Spam Classifier using Python
+# Spam Classifier using Python
 
 Machine Learning, Artificial Intelligence, Data Science
